@@ -83,7 +83,7 @@ Dog-Cat-Classifier-CNN/
 
 | 📈 Training & Validation Accuracy | 📉 Training & Validation Loss |
 |:--------------------------------:|:----------------------------:|
-| ![Accuracy Plot](assets/accracy plot.JPG) | ![Loss Plot](assets/loss plot.JPG) |
+| ![Accuracy Plot](assets/accracy%20plot.JPG) | ![Loss Plot](assets/loss%20plot.JPG) |
 
 ---
 
